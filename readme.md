@@ -1,17 +1,20 @@
 Bilder: Flugzeug, Feuer, Gegner, Hintergrund
 
-Bibliothek - Turtle
+Bibliothek - Turtle - OK
 
-Fesnter erstellen 
+Fesnter erstellen - OK
     Größe angeben
     Hintergrundbild festlegen
+    
     Startmenü erstellen
         Start und Beenden
+    
     Flugzeug erstellen
         Steuerung implementieren
             Links, rechts, schießen 
         Kolision
             Lebensanzeige
+    
     Gegner erstellen
         zufällige Gegner 
             Kolision, Lebensanzeige
@@ -20,3 +23,4 @@ Spielablauf
     Flugzeug 0 Leben Game Over
     HighScore für abgeschossene Gegner
     
+
